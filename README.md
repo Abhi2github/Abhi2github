@@ -7,4 +7,4 @@ I'm a software developer
 🧑‍💻 I’m looking to collaborate on open source projects
 💬 Ask me about Django.
 😄 Pronouns: he/him/his.
-⚡ Fun fact: Looking for one 😂
+⚡ Fun fact: Looking for one😂
