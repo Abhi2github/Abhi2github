@@ -1,12 +1,12 @@
 
 Hi there 👋     
-I'm a Data Analyst
+I'm a Business Analyst
 
 
-🔭 I’m currently working on Recommdation System and a Product Comparison project.   
-☕ I’m learning Tableau and Future Technologies.    
+🔭 I’m currently working on Space Optimization and a Product Comparison project.   
+☕ I’m learning Airflow, AppScript and Future Technologies.    
 🧑‍💻 I’m looking to collaborate on open source projects.    
-💬 Ask me about Python,Excel,SQL.     
+💬 Ask me about Python,Excel,SQL,Pandas,Tableau.     
 😄 Pronouns: he/him/his.    
 ⚡ Fun fact: Looking for one😂 
 
