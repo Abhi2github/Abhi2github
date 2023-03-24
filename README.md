@@ -44,6 +44,11 @@ __Business Analyst & Assistant Manager - Stellar Techno__
 ___
 __PROJECTS__ 
 ___
+__Forecasting Housing Prices using Machine Learning__ ([View](https://jovian.com/abhishek-mehta2k/uk-house-pricing-ml-project))
+- Cleaned & analyzed UK house price dataset with __22M+ rows__ & __11 columns__ to predict house prices
+- Trained __Linear Models, Decision Trees, Random Forests__, and __Gradient Boosted__ trees using scikit-learn
+- Achieved a minimum Root Mean Square Error of __0.2825__ with tuning Random Forest model
+
 __Exploratory Data Analysis and Visualization of Spanish Rail Ticket Pricing__ ([View](https://jovian.ai/abhishek-mehta2k/zerotoanalyst-rail-ticket-pricing-eda))
 - Cleaned & analyzed  with ASL Kaggle data of __38M rows__ & 13 columns using __Pandas__ & __Numpy__.
 - Created visualizations (__scatter plots, strip plot, geo heatmaps,__ etc.) using __Seaborn, Folium__ & __Plotly__.
